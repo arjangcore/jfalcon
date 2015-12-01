@@ -8,7 +8,7 @@ using BatchFileFramework;
 namespace batchFileProcessor
 {
 	class Program
-	{
+	{   // test
 		static long totalFilesLen = 0;
 
 		static void testNotify(String msg)
