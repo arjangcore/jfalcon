@@ -1,0 +1,6 @@
+D:\projects\batchprocessor\batchfileprocessor\batchFileProcessor\bin\x64\Release\batchFileProcessor.exe.config
+D:\projects\batchprocessor\batchfileprocessor\batchFileProcessor\bin\x64\Release\batchFileProcessor.exe
+D:\projects\batchprocessor\batchfileprocessor\batchFileProcessor\bin\x64\Release\batchFileProcessor.pdb
+D:\projects\batchprocessor\batchfileprocessor\batchFileProcessor\obj\x64\Release\batchFileProcessor.csprojResolveAssemblyReference.cache
+D:\projects\batchprocessor\batchfileprocessor\batchFileProcessor\obj\x64\Release\batchFileProcessor.exe
+D:\projects\batchprocessor\batchfileprocessor\batchFileProcessor\obj\x64\Release\batchFileProcessor.pdb
